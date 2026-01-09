@@ -1,0 +1,7 @@
+Tasks:
+
+1. ReadME layout schreiben - check
+2. Makefile erstellen - check
+3. Research machen bzgl. den beiden funktionsarten - check
+3. Pseudocode schreiben und Testfunktion
+4. Eine einzelne, testbare funktion/feature bauen
